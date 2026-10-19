@@ -22,17 +22,17 @@ Official Profile -> Competency Mapping -> AI Skill-Gap Detection -> Personalized
 
 ## Tech stack
 
-| Layer | Technology |
-|---|---|
-| Frontend | React + Vite + TypeScript + Tailwind CSS |
-| Backend | Python + FastAPI (planned / in progress) |
-| AI | LLM + NLP + recommendation engine |
-| Data | PostgreSQL / MySQL |
-| Integration | REST APIs + SSO |
+| Layer | Technology | Status |
+|---|---|---|
+| Frontend | React + Vite + TypeScript + Tailwind CSS | Built |
+| Backend | Python + FastAPI | Planned |
+| AI | LLM + NLP + recommendation engine | Planned |
+| Data | PostgreSQL / MySQL | Planned |
+| Integration | REST APIs + SSO | Planned |
 
 ## Project status
 
-Partially implemented. The frontend dashboard prototype is built; backend and AI modules are in progress.
+Partially implemented. The frontend dashboard prototype is built; backend and AI modules are planned.
 
 ## Run locally
 
@@ -43,8 +43,14 @@ npm run dev
 
 ## Live demo
 
-Add your GitHub Pages link here.
+https://tejasshettyyy.github.io/skill-set-AI/
 
 ## Team
 
-SkillSphere, Srinivas Institute of Technology.
+SkillSphere, Sahyadri College of Engineering and Management.
+
+Team members:
+- Manvitha Acharya
+- Sharanya Kulal
+- Kanishka Kottary
+- Chaitali
