@@ -1,8 +1,8 @@
-# SkillSphere: AI-enabled Skill Intelligence & Learning Platform
+# SkillSet AI: AI-enabled Skill Intelligence & Learning Platform
 
 Smart India Hackathon 2026, Problem Statement SIH26101 (Smart Education, Software).
 
-SkillSphere maps each official's role to required competencies, detects skill gaps, recommends personalised learning, assesses mastery with AI-generated quizzes, and updates the competency profile continuously.
+SkillSet AI maps each official's role to required competencies, detects skill gaps, recommends personalised learning, assesses mastery with AI-generated quizzes, and updates the competency profile continuously.
 
 ## The problem
 
@@ -47,10 +47,10 @@ https://tejasshettyyy.github.io/skill-set-AI/
 
 ## Team
 
-SkillSphere, Sahyadri College of Engineering and Management.
+Team SkillSphere, Sahyadri College of Engineering and Management, Adyar
 
 Team members:
-- Manvitha Acharya
+- Manvitha M Acharya (Team Leader)
 - Sharanya Kulal
 - Kanishka Kottary
 - Chaitali
